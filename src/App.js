@@ -8,6 +8,14 @@ function PageTitle() {
   );
 }
 
+function OriginHalf() {
+
+}
+
+function DestinationHalf() {
+
+}
+
 
 export default function Travelmins() {
   return (
