@@ -1,0 +1,456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valheim",
+				"valheim_dir"
+			],
+			[
+				"in_sl",
+				"in_slim_VML_dir"
+			],
+			[
+				"bep",
+				"bep_in_ex_plugins_dir"
+			],
+			[
+				"pick",
+				"pickup_display"
+			],
+			[
+				"in",
+				"in_slim_VML_dir"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 451,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.css",
+			"settings":
+			{
+				"buffer_size": 601,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/compOne.js",
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			],
+			[
+				"Markdown",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dagu/Desktop/index.js.old",
+		"/D/Workspace/_ToolDevelopment/React/travelmins/tsconfig.json",
+		"/D/valLog.txt",
+		"/D/Workspace/_ToolDevelopment/React/travelmins/src/App.css",
+		"/D/Workspace/_ToolDevelopment/React/travelmins/src/App.tsx",
+		"/D/Google Drive/Job/Resume_Doug_Snyder.txt",
+		"/D/Workspace/_ToolDevelopment/React/travelmins/.gitignore",
+		"/D/Workspace/_ToolDevelopment/React/index.js",
+		"/D/Workspace/_ToolDevelopment/React/index.html",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/valheim_plus.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/yardik.SnapPointsMadeEasy.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/randyknapp.mods.equipmentandquickslots.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/marcopogo.PlanBuild.cfg",
+		"/C/Users/Dagu/env/Scripts/activate",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/plugins/ValheimPlus.dll",
+		"/D/SteamLibrary/steamapps/common/Valheim dedicated server/BepInEx/config/valheim_plus.cfg",
+		"/D/Downloads/New folder/React Calculator.htm",
+		"/D/Downloads/New folder/React Calculator_files/main.b319222a.js",
+		"/D/Workspace/_Practice/React/index.html",
+		"/C/Users/Dagu/AppData/Roaming/IdleonSaver/idleon_save.json",
+		"/C/Users/Dagu/AppData/Roaming/IdleonSaver/idleon_companion.json",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/boot.config",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/org.bepinex.plugins.valheim.quick_stack.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/net.mtnewton.gravekeeper.cfg",
+		"/C/Users/Dagu/Desktop/randyknapp.mods.equipmentandquickslots.cfg",
+		"/D/Workspace/ProjectSeedling/.gitignore",
+		"/D/Downloads/valheim/ValheimModHotkeys.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/org.bepinex.plugins.smoothsave.cfg",
+		"/D/SteamLibrary/steamapps/common/Valheim dedicated server/BepInEx/config/org.bepinex.plugins.smoothsave.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/aedenthorn.InstantMonsterDrop.cfg",
+		"/D/SteamLibrary/steamapps/common/Valheim dedicated server/BepInEx/config/aedenthorn.InstantMonsterDrop.cfg",
+		"/D/SteamLibrary/steamapps/common/Valheim dedicated server/BepInEx/config/BepInEx.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/org.bepinex.valheim.displayinfo.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/com.maxsch.valheim.FenceSnap.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/BepIn.Sarcen.FarmGrid.cfg",
+		"/D/SteamLibrary/steamapps/common/Valheim dedicated server/BepInEx/config/aedenthorn.CustomServerLoadingScreen.cfg",
+		"/D/Downloads/valheim_plus.cfg.defaults",
+		"/C/Users/Dagu/Desktop/valheim_plus.cfg",
+		"/C/Users/Dagu/AppData/LocalLow/IronGate/Valheim/adminlist.txt",
+		"/D/SteamLibrary/steamapps/common/Valheim dedicated server/config/config.vdf",
+		"/C/Users/Dagu/AppData/LocalLow/IronGate/Valheim/serverlist_local/recent",
+		"/C/Users/Dagu/AppData/LocalLow/IronGate/Valheim/serverlist_local/favorite",
+		"/C/Users/Dagu/AppData/LocalLow/IronGate/Valheim/serverlist_local/favorite.old",
+		"/C/Users/Dagu/AppData/LocalLow/IronGate/Valheim/binds.txt",
+		"/C/Users/Dagu/AppData/LocalLow/IronGate/Valheim/bannedlist.txt",
+		"/C/Users/Dagu/AppData/LocalLow/IronGate/Valheim/permittedlist.txt",
+		"/D/SteamLibrary/steamapps/common/Valheim dedicated server/start_headless_server-WarnedYouAboutMistsBro.bat",
+		"/D/Downloads/0.9.9.10 ValheimPlus Windows Client-4-0-9-9-10-1670346087/BepInEx/config/BepInEx.cfg",
+		"/D/Downloads/valheim keyboard commands.sh",
+		"/C/Users/Dagu/AppData/Local/Temp/7zO063FAE1D/README.md",
+		"/D/Downloads/PlanBuild/README.md",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/azumatt.StackedBars.cfg",
+		"/D/Downloads/Terraria Mod List.txt",
+		"/D/Downloads/ValheimModHotkeys.txt",
+		"/C/Users/Dagu/Desktop/Terraria Mod List",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/MK_BetterUI.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/ishid4.mods.betterarchery.cfg",
+		"/C/Users/Dagu/Desktop/Valheim/BepInEx/config/MK_BetterUI.cfg",
+		"/C/Users/Dagu/Desktop/Valheim/BepInEx/config/yardik.SnapPointsMadeEasy.cfg",
+		"/C/Users/Dagu/Desktop/Valheim/BepInEx/config/org.bepinex.plugins.valheim.quick_stack.cfg",
+		"/D/Downloads/README",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/config/com.lvh-it.valheim.useequipmentinwater.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/BepInEx/plugins/BetterArchery/BetterArcheryRecipes.json",
+		"/C/Users/Dagu/Desktop/Valheim/BepInEx/config/aedenthorn.InstantMonsterDrop.cfg",
+		"/D/Downloads/README.md",
+		"/C/Users/Dagu/Desktop/Valheim/BepInEx/config/ishid4.mods.betterarchery.cfg",
+		"/C/Users/Dagu/Desktop/Valheim/BepInEx/config/valheim_plus.cfg",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim/start_game_bepinex.sh",
+		"/D/Downloads/denikson-BepInExPack_Valheim-5.4.1901/README.md",
+		"/D/Google Drive/Backups/Game Saves/Terraria/input profiles.json",
+		"/D/Google Drive/Backups/Game Saves/Terraria/config.json",
+		"/D/Google Drive/Backups/Game Saves/Terraria/favorites.json",
+		"/D/Google Drive/Visual Guides & Game Tools/Idle Skilling/idleSkillingPriority.txt",
+		"/D/Google Drive/Visual_Guides/Idle Skilling/idleSkillingPriority.txt",
+		"/D/Google Drive/rando texto.txt",
+		"/D/Google Drive/Visual_Guides/Idle Skilling/Cover Letter of Sorts.txt",
+		"/D/Downloads/idleSkillingPriority.json",
+		"/D/Downloads/Job/Resume_Doug_Snyder.txt",
+		"/D/Downloads/idleon snapshotting.txt",
+		"/D/Downloads/idleon snapshotting",
+		"/D/Audio/foobar2000/profile/LargeFieldsConfig.txt",
+		"/C/Users/Dagu/Desktop/_Roaming_ foobar2000/LargeFieldsConfig.txt",
+		"/D/Downloads/mcop.txt",
+		"/C/Users/Dagu/AppData/Roaming/.minecraft/assets/indexes/1.19.json",
+		"/C/Users/Dagu/MultiMC/instances/1.19.2/.minecraft/config/smoothboot.json",
+		"/C/Users/Dagu/MultiMC/assets/indexes/1.19.json",
+		"/D/Downloads/sounds.json changes",
+		"/C/Users/Dagu/MultiMC/assets/objects/a1/a1daff5daa55f870c29becece97fc88e3da0b18e",
+		"/C/Users/Dagu/AppData/Roaming/.minecraft/assets/objects/a1/a1daff5daa55f870c29becece97fc88e3da0b18e",
+		"/D/Workspace/Project_Seedling/.gitignore",
+		"/D/Workspace/Project_Seedling/.gitattributes",
+		"/D/Workspace/ProjectTravelman/.gitignore",
+		"/D/MinecraftServer/server.properties",
+		"/D/MinecraftServer/ops.json",
+		"/D/Downloads/NEU PHULDUR/IdleonSaver/idleon_companion.json",
+		"/C/Users/Dagu/AppData/Roaming/.minecraft/mods/mcmod.info",
+		"/D/Workspace/ProjectStickyFingers/.gitattributes",
+		"/D/Google Drive/stevesArknightTierList.txt",
+		"/D/Workspace/ProjectWoodWall/.gitignore",
+		"/C/Users/Dagu/Desktop/Alp Tsumino Searchhttpswww.tsumino.combooks#~(PageNumber~2~Include~(~)~Tags~(~(Type~5~Text~'Noise~Exclude~false)))#Noise Tsu.URL",
+		"/C/Users/Dagu/AppData/Roaming/Mozilla/Firefox/Profiles/hd5skhaa.default-release/bookmarkbackups/bookmarks-2022-04-24_1027_ili6LMM2I2pH8ptpKPsmUQ==.jsonlz4",
+		"/C/Program Files/LGHUB/data/applications.json",
+		"/D/Windows_11_Installation_Backup/AppData/Roaming/XuanZhi64/appconfig.ini",
+		"/D/Windows_11_Installation_Backup/AppData/Roaming/PureRef.ini",
+		"/D/Downloads/application_questions_and_answers.txt",
+		"/D/Workspace/RenPy/Projects/Dynasty-VN/.gitignore",
+		"/C/Program Files (x86)/Steam/steamapps/common/Valheim dedicated server/start_server_bepinex.sh",
+		"/D/Google Drive/Images/stupid waifu games/azur_cats.txt",
+		"/C/Users/Dagurechu/Desktop/some list from some where.txt",
+		"/D/Downloads/PureRef Export/azur.txt",
+		"/D/Downloads/PureRef Export/3/azur.txt",
+		"/D/Google Drive/minigame_reqs.txt",
+		"/D/Downloads/PureRef Export/3/New Text Document.txt",
+		"/C/Users/Dagurechu/Desktop/3/New Text Document.txt",
+		"/D/Downloads/Unifairy.sys Denial.bat",
+		"/C/Windows/Minidump/081621-4281-01.dmp",
+		"/D/Google Drive/Computer Junk/old-laptop-specs.txt",
+		"/D/Downloads/Talents are listed in descending priority",
+		"/D/Workspace/RenPy/Projects/Dynasty-VN/game/custom_screens.rpy",
+		"/D/Workspace/RenPy/Projects/Dynasty-VN/game/custom_color_tools.rpy",
+		"/D/Downloads/Factory-Town-Mods-master/HugeSilo/README.md",
+		"/D/Downloads/Factory-Town-Mods-master/Code Rules.ruleset",
+		"/C/Users/Dagurechu/AppData/LocalLow/82 Apps/Factory Town/Player.log",
+		"/D/Downloads/Factory-Town-Mods-master/README.md",
+		"/C/Users/Dagurechu/AppData/Roaming/XuanZhi64/log/dninstall.log",
+		"/D/Workspace/RenPy/Projects/Dynasty-VN/game/script.rpy",
+		"/D/Workspace/RenPy/Projects/Dynasty-VN/game/custom_quest_sorting.rpy",
+		"/D/Workspace/RenPy/Projects/Dynasty-VN/game/custom_UI.rpy"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 286.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/compOne.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diff_views":
+	{
+		"height": 648.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 37.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
