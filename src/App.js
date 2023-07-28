@@ -1,32 +1,39 @@
 import "./App.css";
+import "./output.css";
 import ExampleComponent from "./components/compOne";
 
 
 function PageTitle() {
   return (
-    <h1 className="App">TRAVELMINS</h1>
+    <div>
+      <h1 className="App">TRAVELMINS</h1>
+    </div>
   );
 }
 
 function OriginSection() {
   return (
-    <h3>ORIGIN</h3>
+    <div class="w-60">
+      <h3>ORIGIN</h3>
+    </div>
   );
 }
 
 function DestinationSection() {
   return (
-    <h3>DESTINATION</h3>
+    <div class="w-60">
+      <h3>DESTINATION</h3>
+    </div>
   );
 }
 
 
 export default function Travelmins() {
   return (
-    <div>
+    <>
       <PageTitle />
       <OriginSection />
       <DestinationSection />
-    </div>
+    </>
   );
 }
