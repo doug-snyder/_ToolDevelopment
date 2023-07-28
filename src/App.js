@@ -1,5 +1,5 @@
 import "./App.css";
-import "./output.css";
+// import "./output.css";
 import ExampleComponent from "./components/compOne";
 
 
@@ -13,7 +13,7 @@ function PageTitle() {
 
 function OriginSection() {
   return (
-    <div class="w-60">
+    <div class="">
       <h3>ORIGIN</h3>
     </div>
   );
@@ -21,7 +21,7 @@ function OriginSection() {
 
 function DestinationSection() {
   return (
-    <div class="w-60">
+    <div class="">
       <h3>DESTINATION</h3>
     </div>
   );
