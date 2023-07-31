@@ -7,8 +7,30 @@ html {
 }
 
 .App {
-  text-align: center;
+
 }
+
+.subsection {
+  display: inline-block;
+  padding: 0px 5px;
+  margin: 5px;
+  border: 1px solid;
+  height: 300px;
+  background: lightgray;
+  width: 45%;
+}
+
+.dropdownSection {
+  display: block;
+  padding-bottom: 15px;
+}
+
+.dropdownField {
+  float: right;
+  margin-right: 15px;
+  padding-right: 15px;
+}
+
 
 .App-logo {
   height: 40vmin;
