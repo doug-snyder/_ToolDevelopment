@@ -45,10 +45,13 @@ function DestinationSection() {
 
 function CreateDropdown() {
   return (
-    <select className="dropdownField">
-      <option value="optionOne">- - -</option>
-      <option value="optionTwo">- - -</option>
-    </select>
+    <label>
+      LABEL
+      <select className="dropdownField">
+        <option value="optionOne">- - -</option>
+        <option value="optionTwo">- - -</option>
+      </select>
+    </label>
   );
 }
 
