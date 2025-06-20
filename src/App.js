@@ -17,11 +17,17 @@ function OriginSection() {
       <h3>ORIGIN</h3>
       <div className="dropdownSection">
         Departure Time:
-        <CreateDropdown />
+        <select className="dropdownField">
+          <option value="optionOne">time 1</option>
+          <option value="optionTwo">time 2</option>
+        </select>
       </div>
       <div className="dropdownSection">
         Departure Station:
-        <CreateDropdown />
+        <select className="dropdownField">
+          <option value="optionOne">station 1</option>
+          <option value="optionTwo">station 2</option>
+        </select>
       </div>
     </div>
   );
@@ -33,11 +39,17 @@ function DestinationSection() {
       <h3>DESTINATION</h3>
       <div className="dropdownSection">
         Arrival Time:
-        <CreateDropdown />
+        <select className="dropdownField">
+          <option value="optionOne">time 1</option>
+          <option value="optionTwo">time 2</option>
+        </select>
       </div>
       <div className="dropdownSection">
         Arrival Station:
-        <CreateDropdown />
+        <select className="dropdownField">
+          <option value="optionOne">station 1</option>
+          <option value="optionTwo">station 2</option>
+        </select>
       </div>
     </div>
   );
@@ -45,13 +57,10 @@ function DestinationSection() {
 
 function CreateDropdown() {
   return (
-    <label>
-      LABEL
-      <select className="dropdownField">
-        <option value="optionOne">- - -</option>
-        <option value="optionTwo">- - -</option>
-      </select>
-    </label>
+    <select className="dropdownField">
+      <option value="optionOne">item 1</option>
+      <option value="optionTwo">item 2</option>
+    </select>
   );
 }
 
