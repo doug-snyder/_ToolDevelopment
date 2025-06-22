@@ -1,6 +1,6 @@
 import "./App.css";
 // import "./output.css";
-import ExampleComponent from "./components/compOne";
+import DropdownCreator from "./components/DropdownCreator";
 
 
 function PageTitle() {
@@ -15,19 +15,13 @@ function OriginSection() {
   return (
     <div className="subsection">
       <h3>ORIGIN</h3>
-      <div className="dropdownSection">
+      <div className="dropdownSection" id="departureTime">
         Departure Time:
-        <select className="dropdownField">
-          <option value="optionOne">time 1</option>
-          <option value="optionTwo">time 2</option>
-        </select>
+        <DropdownCreator />
       </div>
-      <div className="dropdownSection">
+      <div className="dropdownSection" id="departureStation">
         Departure Station:
-        <select className="dropdownField">
-          <option value="optionOne">station 1</option>
-          <option value="optionTwo">station 2</option>
-        </select>
+        <DropdownCreator />
       </div>
     </div>
   );
@@ -37,19 +31,13 @@ function DestinationSection() {
   return (
     <div className="subsection">
       <h3>DESTINATION</h3>
-      <div className="dropdownSection">
+      <div className="dropdownSection" id="arrivalTime">
         Arrival Time:
-        <select className="dropdownField">
-          <option value="optionOne">time 1</option>
-          <option value="optionTwo">time 2</option>
-        </select>
+        <DropdownCreator />
       </div>
-      <div className="dropdownSection">
+      <div className="dropdownSection" id="arrivalStation">
         Arrival Station:
-        <select className="dropdownField">
-          <option value="optionOne">station 1</option>
-          <option value="optionTwo">station 2</option>
-        </select>
+        <DropdownCreator />
       </div>
     </div>
   );
