@@ -15,13 +15,13 @@ function OriginSection() {
   return (
     <div className="subsection">
       <h3>ORIGIN</h3>
-      <div className="dropdownSection" id="departureTime">
-        Departure Time:
-        <DropdownCreator />
-      </div>
       <div className="dropdownSection" id="departureStation">
         Departure Station:
-        <DropdownCreator />
+        <DropdownCreator dropdownType="station"/>
+      </div>
+      <div className="dropdownSection" id="departureTime">
+        Departure Time:
+        <DropdownCreator dropdownType="time"/>
       </div>
     </div>
   );
@@ -31,24 +31,15 @@ function DestinationSection() {
   return (
     <div className="subsection">
       <h3>DESTINATION</h3>
-      <div className="dropdownSection" id="arrivalTime">
-        Arrival Time:
-        <DropdownCreator />
-      </div>
       <div className="dropdownSection" id="arrivalStation">
         Arrival Station:
-        <DropdownCreator />
+        <DropdownCreator dropdownType="station"/>
+      </div>
+      <div className="dropdownSection" id="arrivalTime">
+        Arrival Time:
+        <DropdownCreator dropdownType="time"/>
       </div>
     </div>
-  );
-}
-
-function CreateDropdown() {
-  return (
-    <select className="dropdownField">
-      <option value="optionOne">item 1</option>
-      <option value="optionTwo">item 2</option>
-    </select>
   );
 }
 
