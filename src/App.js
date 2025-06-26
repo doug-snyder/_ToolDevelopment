@@ -11,21 +11,23 @@ function PageTitle() {
   );
 }
 
+
 function OriginSection() {
   return (
     <div className="subsection">
       <h3>ORIGIN</h3>
       <div className="dropdownSection" id="departureStation">
         Departure Station:
-        <DropdownCreator dropdownType="station"/>
+        <DropdownCreator dropdownType="stations"/>
       </div>
       <div className="dropdownSection" id="departureTime">
         Departure Time:
-        <DropdownCreator dropdownType="time"/>
+        <DropdownCreator dropdownType="times"/>
       </div>
     </div>
   );
 }
+
 
 function DestinationSection() {
   return (
@@ -33,11 +35,11 @@ function DestinationSection() {
       <h3>DESTINATION</h3>
       <div className="dropdownSection" id="arrivalStation">
         Arrival Station:
-        <DropdownCreator dropdownType="station"/>
+        <DropdownCreator dropdownType="stations"/>
       </div>
       <div className="dropdownSection" id="arrivalTime">
         Arrival Time:
-        <DropdownCreator dropdownType="time"/>
+        <DropdownCreator dropdownType="times"/>
       </div>
     </div>
   );
